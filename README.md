@@ -14,7 +14,7 @@
 
 # ✨은서
 
-![](C:\Users\ektmf\Spring-class\이수증.PNG)
+![](.\이수증.PNG)
 
 # 
 
